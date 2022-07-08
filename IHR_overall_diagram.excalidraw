@@ -1,7 +1,7 @@
 {
   "type": "excalidraw",
   "version": 2,
-  "source": "https://draw.fontugne.org",
+  "source": "https://excalidraw.com",
   "elements": [
     {
       "type": "rectangle",
@@ -28,7 +28,8 @@
       "strokeSharpness": "sharp",
       "boundElements": [],
       "updated": 1656497782146,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "ellipse",
@@ -60,7 +61,8 @@
         }
       ],
       "updated": 1656497782146,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "ellipse",
@@ -87,7 +89,8 @@
       "strokeSharpness": "sharp",
       "boundElements": [],
       "updated": 1656497782146,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "ellipse",
@@ -123,7 +126,8 @@
         }
       ],
       "updated": 1656497782146,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "ellipse",
@@ -150,7 +154,8 @@
       "strokeSharpness": "sharp",
       "boundElements": [],
       "updated": 1656497782146,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "ellipse",
@@ -198,7 +203,8 @@
         }
       ],
       "updated": 1656497782146,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "ellipse",
@@ -225,7 +231,8 @@
       "strokeSharpness": "sharp",
       "boundElements": [],
       "updated": 1656497782146,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "ellipse",
@@ -257,7 +264,8 @@
         }
       ],
       "updated": 1656497782147,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "ellipse",
@@ -284,7 +292,8 @@
       "strokeSharpness": "sharp",
       "boundElements": [],
       "updated": 1656497782147,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "ellipse",
@@ -320,7 +329,8 @@
         }
       ],
       "updated": 1656497782147,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "ellipse",
@@ -347,7 +357,8 @@
       "strokeSharpness": "sharp",
       "boundElements": [],
       "updated": 1656497782147,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "rectangle",
@@ -374,7 +385,8 @@
       "strokeSharpness": "sharp",
       "boundElements": [],
       "updated": 1656497782147,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "rectangle",
@@ -401,7 +413,8 @@
       "strokeSharpness": "sharp",
       "boundElements": [],
       "updated": 1656497782147,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "rectangle",
@@ -428,7 +441,8 @@
       "strokeSharpness": "sharp",
       "boundElements": [],
       "updated": 1656497782147,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "rectangle",
@@ -455,7 +469,8 @@
       "strokeSharpness": "sharp",
       "boundElements": [],
       "updated": 1656497782147,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "text",
@@ -481,6 +496,7 @@
       "boundElements": [],
       "updated": 1656497782147,
       "link": "https://github.com/InternetHealthReport/kafka-toolbox/blob/master/bgp/producers/bgpstream2.py",
+      "locked": false,
       "fontSize": 20,
       "fontFamily": 1,
       "text": "RIPE RIS\nRouteViews\n(BGP data)",
@@ -514,6 +530,7 @@
       "boundElements": [],
       "updated": 1656497782148,
       "link": "https://github.com/InternetHealthReport/kafka-toolbox/tree/master/atlas/producers",
+      "locked": false,
       "fontSize": 20,
       "fontFamily": 1,
       "text": "RIPE Atlas \ntraceroute",
@@ -547,6 +564,7 @@
       "boundElements": [],
       "updated": 1656497782148,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": {
         "elementId": "QgBw14wlb4TfBNnWjeiho",
@@ -591,6 +609,7 @@
       "boundElements": [],
       "updated": 1656497782148,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": {
         "elementId": "PByig7xMwMWIJHZOTgEGP",
@@ -635,6 +654,7 @@
       "boundElements": [],
       "updated": 1656497782148,
       "link": null,
+      "locked": false,
       "fontSize": 20,
       "fontFamily": 1,
       "text": "Data Stream\n(Kafka)",
@@ -668,6 +688,7 @@
       "boundElements": [],
       "updated": 1656497782148,
       "link": "https://github.com/InternetHealthReport/kafka-toolbox/tree/master/psql/consumers",
+      "locked": false,
       "startBinding": {
         "elementId": "ea3cOOIVTVlfgbCBN5JiJ",
         "gap": 12.893582026841266,
@@ -712,6 +733,7 @@
       "boundElements": [],
       "updated": 1656497782148,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -772,6 +794,7 @@
       "boundElements": [],
       "updated": 1656497782148,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -837,6 +860,7 @@
       ],
       "updated": 1656497782148,
       "link": null,
+      "locked": false,
       "fontSize": 20,
       "fontFamily": 1,
       "text": "Database:\n - Postgres\n - TimescaleDB",
@@ -870,6 +894,7 @@
       "boundElements": [],
       "updated": 1656497782148,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -930,6 +955,7 @@
       "boundElements": [],
       "updated": 1656497782149,
       "link": "https://github.com/InternetHealthReport/disco",
+      "locked": false,
       "fontSize": 20,
       "fontFamily": 1,
       "text": "RIPE Atlas \nconnection logs",
@@ -963,6 +989,7 @@
       "boundElements": [],
       "updated": 1656497782149,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": {
         "elementId": "KcJex057wBcdh_zVZHYbi",
@@ -1007,6 +1034,7 @@
       "boundElements": [],
       "updated": 1656497782149,
       "link": null,
+      "locked": false,
       "startBinding": {
         "elementId": "fhIijieuAluOatUoQaGZT",
         "gap": 6.232839607863968,
@@ -1051,6 +1079,7 @@
       "boundElements": [],
       "updated": 1656497782149,
       "link": null,
+      "locked": false,
       "fontSize": 36,
       "fontFamily": 1,
       "text": "Internet Health Report: Overall Architecture",
@@ -1084,6 +1113,7 @@
       "boundElements": [],
       "updated": 1656497782149,
       "link": "https://github.com/InternetHealthReport/ihr-django",
+      "locked": false,
       "startBinding": null,
       "endBinding": {
         "elementId": "u10TdDmtnt-c_3ADya7y7",
@@ -1128,6 +1158,7 @@
       "boundElements": [],
       "updated": 1656497782149,
       "link": "https://github.com/InternetHealthReport/ihr-django",
+      "locked": false,
       "fontSize": 20,
       "fontFamily": 1,
       "text": "IHR API:\n - Django\n - memcached",
@@ -1183,7 +1214,8 @@
         }
       ],
       "updated": 1656497782149,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "line",
@@ -1211,6 +1243,7 @@
       "boundElements": [],
       "updated": 1656497782149,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -1252,7 +1285,8 @@
       "strokeSharpness": "sharp",
       "boundElements": [],
       "updated": 1656497782149,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "ellipse",
@@ -1279,7 +1313,8 @@
       "strokeSharpness": "sharp",
       "boundElements": [],
       "updated": 1656497782149,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "ellipse",
@@ -1306,7 +1341,8 @@
       "strokeSharpness": "sharp",
       "boundElements": [],
       "updated": 1656497782150,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "ellipse",
@@ -1333,7 +1369,8 @@
       "strokeSharpness": "sharp",
       "boundElements": [],
       "updated": 1656497782150,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "line",
@@ -1361,6 +1398,7 @@
       "boundElements": [],
       "updated": 1656497782150,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -1483,6 +1521,7 @@
       "boundElements": [],
       "updated": 1656497782150,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -1525,6 +1564,7 @@
       "boundElements": [],
       "updated": 1656497782150,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -1590,7 +1630,8 @@
       "strokeSharpness": "sharp",
       "boundElements": [],
       "updated": 1656497782150,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "line",
@@ -1618,6 +1659,7 @@
       "boundElements": [],
       "updated": 1656497782150,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -1683,6 +1725,7 @@
       ],
       "updated": 1656497782150,
       "link": "https://github.com/InternetHealthReport/ihr-website",
+      "locked": false,
       "fontSize": 20,
       "fontFamily": 1,
       "text": "IHR website (NodeJS)",
@@ -1716,6 +1759,7 @@
       "boundElements": [],
       "updated": 1656497782150,
       "link": "",
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -1776,6 +1820,7 @@
       "boundElements": [],
       "updated": 1656497782150,
       "link": "https://github.com/InternetHealthReport/AS-names",
+      "locked": false,
       "fontSize": 20,
       "fontFamily": 1,
       "text": "RIPE AS names",
@@ -1809,6 +1854,7 @@
       "boundElements": [],
       "updated": 1656497782151,
       "link": "https://github.com/InternetHealthReport",
+      "locked": false,
       "status": "saved",
       "fileId": "857f7c3ab2f1997ddbc0a7e798bba51aeef2c150",
       "scale": [
@@ -1840,6 +1886,7 @@
       "boundElements": [],
       "updated": 1656497782151,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": {
         "elementId": "_4nMw7f__uMXxHAUt-PK6",
@@ -1886,6 +1933,7 @@
       "boundElements": [],
       "updated": 1656497782151,
       "link": null,
+      "locked": false,
       "points": [
         [
           -0.2116788321167813,
@@ -2214,6 +2262,7 @@
       "boundElements": [],
       "updated": 1656497782151,
       "link": null,
+      "locked": false,
       "points": [
         [
           0,
@@ -2302,6 +2351,7 @@
       "boundElements": [],
       "updated": 1656497782151,
       "link": null,
+      "locked": false,
       "points": [
         [
           0,
@@ -2376,6 +2426,7 @@
       "boundElements": [],
       "updated": 1656497782151,
       "link": null,
+      "locked": false,
       "fontSize": 19.545454545454568,
       "fontFamily": 1,
       "text": "Analysis modules:\n\n\n\n\n ",
@@ -2411,6 +2462,7 @@
       "boundElements": [],
       "updated": 1656497782151,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -2504,7 +2556,8 @@
       "strokeSharpness": "sharp",
       "boundElements": [],
       "updated": 1656497782151,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "line",
@@ -2532,6 +2585,7 @@
       "boundElements": [],
       "updated": 1656497782151,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -2630,6 +2684,7 @@
       "boundElements": [],
       "updated": 1656497782151,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -2728,6 +2783,7 @@
       "boundElements": [],
       "updated": 1656497782152,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -2898,6 +2954,7 @@
       "boundElements": [],
       "updated": 1656497782152,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -2976,6 +3033,7 @@
       "boundElements": [],
       "updated": 1656497782152,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -3038,6 +3096,7 @@
       "boundElements": [],
       "updated": 1656497782152,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -3112,6 +3171,7 @@
       "boundElements": [],
       "updated": 1656497782152,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -3174,6 +3234,7 @@
       "boundElements": [],
       "updated": 1656497782152,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -3228,6 +3289,7 @@
       "boundElements": [],
       "updated": 1656497782152,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -3286,7 +3348,8 @@
       "strokeSharpness": "round",
       "boundElements": [],
       "updated": 1656497782152,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "ellipse",
@@ -3314,7 +3377,8 @@
       "strokeSharpness": "sharp",
       "boundElements": [],
       "updated": 1656497782152,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "ellipse",
@@ -3351,7 +3415,8 @@
         }
       ],
       "updated": 1656497782152,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "ellipse",
@@ -3384,7 +3449,8 @@
         }
       ],
       "updated": 1656497782152,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "ellipse",
@@ -3421,7 +3487,8 @@
         }
       ],
       "updated": 1656497782152,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "ellipse",
@@ -3453,7 +3520,8 @@
         }
       ],
       "updated": 1656497782153,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "ellipse",
@@ -3480,7 +3548,8 @@
       "strokeSharpness": "sharp",
       "boundElements": [],
       "updated": 1656497782153,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "ellipse",
@@ -3516,7 +3585,8 @@
         }
       ],
       "updated": 1656497782153,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "ellipse",
@@ -3543,7 +3613,8 @@
       "strokeSharpness": "sharp",
       "boundElements": [],
       "updated": 1656497782153,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "ellipse",
@@ -3575,7 +3646,8 @@
         }
       ],
       "updated": 1656497782153,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "text",
@@ -3601,6 +3673,7 @@
       "boundElements": [],
       "updated": 1656497782153,
       "link": null,
+      "locked": false,
       "fontSize": 20,
       "fontFamily": 1,
       "text": "CDN (Edgecast)",
@@ -3634,6 +3707,7 @@
       "boundElements": [],
       "updated": 1656497782153,
       "link": null,
+      "locked": false,
       "startBinding": {
         "elementId": "N_3VoIBqzDKEttIfMku3u",
         "gap": 6.5239431643493155,
@@ -3692,7 +3766,8 @@
         }
       ],
       "updated": 1656497782153,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "ellipse",
@@ -3728,7 +3803,8 @@
         }
       ],
       "updated": 1656497782153,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "line",
@@ -3756,6 +3832,7 @@
       "boundElements": [],
       "updated": 1656497782153,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -3798,6 +3875,7 @@
       "boundElements": [],
       "updated": 1656497782153,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -3844,7 +3922,8 @@
         }
       ],
       "updated": 1656497782154,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "text",
@@ -3875,6 +3954,7 @@
       ],
       "updated": 1656497782154,
       "link": null,
+      "locked": false,
       "fontSize": 28,
       "fontFamily": 1,
       "text": "REST API",
@@ -3910,6 +3990,7 @@
       "boundElements": [],
       "updated": 1656497782154,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -4068,6 +4149,7 @@
       "boundElements": [],
       "updated": 1656497782154,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -4225,7 +4307,8 @@
       "strokeSharpness": "sharp",
       "boundElements": [],
       "updated": 1656497782154,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "ellipse",
@@ -4252,7 +4335,8 @@
       "strokeSharpness": "sharp",
       "boundElements": [],
       "updated": 1656497782154,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "text",
@@ -4278,6 +4362,7 @@
       "boundElements": [],
       "updated": 1656497782154,
       "link": "https://github.com/InternetHealthReport/as-hegemony",
+      "locked": false,
       "fontSize": 20,
       "fontFamily": 1,
       "text": " - AS Hegemony (AS & prefixes)",
@@ -4311,6 +4396,7 @@
       "boundElements": [],
       "updated": 1656497782154,
       "link": "https://github.com/InternetHealthReport/raclette",
+      "locked": false,
       "fontSize": 20,
       "fontFamily": 1,
       "text": " - Network delay (raclette)",
@@ -4344,6 +4430,7 @@
       "boundElements": [],
       "updated": 1656497782154,
       "link": "https://github.com/InternetHealthReport/tartiflette",
+      "locked": false,
       "fontSize": 20,
       "fontFamily": 1,
       "text": " - Link delay (tartiflette)",
@@ -4355,8 +4442,8 @@
     },
     {
       "type": "text",
-      "version": 321,
-      "versionNonce": 2139879432,
+      "version": 365,
+      "versionNonce": 724287851,
       "isDeleted": false,
       "id": "Cdws2RHwmrDu05Br7ffeF",
       "fillStyle": "hachure",
@@ -4365,8 +4452,8 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 1082.3030303030305,
-      "y": 1774.2146464646466,
+      "x": 985.3030303030305,
+      "y": 1620.2146464646466,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
       "width": 274,
@@ -4375,8 +4462,9 @@
       "groupIds": [],
       "strokeSharpness": "sharp",
       "boundElements": [],
-      "updated": 1656497782154,
+      "updated": 1657264267367,
       "link": "https://github.com/InternetHealthReport/disco",
+      "locked": false,
       "fontSize": 20,
       "fontFamily": 1,
       "text": " - Outage detection (disco)",
@@ -4410,6 +4498,7 @@
       "boundElements": [],
       "updated": 1656497782155,
       "link": null,
+      "locked": false,
       "fontSize": 20,
       "fontFamily": 1,
       "text": " - Probe selection (Metis)",
@@ -4443,6 +4532,7 @@
       "boundElements": [],
       "updated": 1656497782155,
       "link": "https://github.com/InternetHealthReport/route-origin-validator",
+      "locked": false,
       "fontSize": 20,
       "fontFamily": 1,
       "text": " Route Origin Validation",
@@ -4476,6 +4566,7 @@
       "boundElements": [],
       "updated": 1656497782155,
       "link": "https://github.com/InternetHealthReport/kafka-toolbox/tree/master/psql/consumers",
+      "locked": false,
       "fontSize": 20,
       "fontFamily": 1,
       "text": "Data Storage",
@@ -4522,6 +4613,7 @@
       ],
       "updated": 1656497782155,
       "link": "https://github.com/InternetHealthReport/as-hegemony",
+      "locked": false,
       "fontSize": 20,
       "fontFamily": 1,
       "text": " Country Hegemony",
@@ -4555,6 +4647,7 @@
       "boundElements": [],
       "updated": 1656497782155,
       "link": null,
+      "locked": false,
       "startBinding": {
         "elementId": "r6hoPZZVajoa3FEmzzAr-",
         "focus": -1.0825007228692298,
@@ -4603,6 +4696,7 @@
       "boundElements": [],
       "updated": 1656497782155,
       "link": null,
+      "locked": false,
       "startBinding": {
         "elementId": "1ZfnAhZdsM5RM206iN6Rr",
         "focus": -0.874115275319216,
@@ -4647,6 +4741,7 @@
       "boundElements": [],
       "updated": 1656497782155,
       "link": "",
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -4712,6 +4807,7 @@
       ],
       "updated": 1656497782155,
       "link": null,
+      "locked": false,
       "fontSize": 20,
       "fontFamily": 1,
       "text": "NRO delegated stats ",
@@ -4747,6 +4843,7 @@
       "boundElements": [],
       "updated": 1656497782155,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -4905,6 +5002,7 @@
       "boundElements": [],
       "updated": 1656497782155,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -5062,7 +5160,8 @@
       "strokeSharpness": "sharp",
       "boundElements": [],
       "updated": 1656497782155,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "ellipse",
@@ -5089,7 +5188,8 @@
       "strokeSharpness": "sharp",
       "boundElements": [],
       "updated": 1656497782156,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "line",
@@ -5117,6 +5217,7 @@
       "boundElements": [],
       "updated": 1656497782156,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -5275,6 +5376,7 @@
       "boundElements": [],
       "updated": 1656497782156,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -5432,7 +5534,8 @@
       "strokeSharpness": "sharp",
       "boundElements": [],
       "updated": 1656497782156,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "ellipse",
@@ -5464,7 +5567,8 @@
         }
       ],
       "updated": 1656497782156,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "arrow",
@@ -5490,6 +5594,7 @@
       "boundElements": [],
       "updated": 1656497782156,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": {
         "elementId": "1ZfnAhZdsM5RM206iN6Rr",
@@ -5534,6 +5639,7 @@
       "boundElements": [],
       "updated": 1656497782156,
       "link": null,
+      "locked": false,
       "startBinding": {
         "elementId": "r4HLD0XZJMoMAWZNNh36e",
         "focus": -1.1966333456579656,
@@ -5582,6 +5688,7 @@
       "boundElements": [],
       "updated": 1656497782156,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -5622,6 +5729,7 @@
       "boundElements": [],
       "updated": 1656497782156,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -5687,6 +5795,7 @@
       ],
       "updated": 1656497782156,
       "link": null,
+      "locked": false,
       "fontSize": 20,
       "fontFamily": 1,
       "text": "RPKI",
@@ -5720,6 +5829,7 @@
       "boundElements": [],
       "updated": 1656497782156,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -5760,6 +5870,7 @@
       "boundElements": [],
       "updated": 1656497782157,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -5820,6 +5931,7 @@
       "boundElements": [],
       "updated": 1656497782157,
       "link": "https://github.com/InternetHealthReport/kafka-toolbox/tree/master/peeringdb/producers",
+      "locked": false,
       "fontSize": 20,
       "fontFamily": 1,
       "text": "PeeringDB",
@@ -5853,6 +5965,7 @@
       "boundElements": [],
       "updated": 1656497782157,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": {
         "elementId": "KcJex057wBcdh_zVZHYbi",
@@ -5897,6 +6010,7 @@
       "boundElements": [],
       "updated": 1656497782157,
       "link": "https://github.com/InternetHealthReport/as-hegemony",
+      "locked": false,
       "fontSize": 20,
       "fontFamily": 1,
       "text": " - Anomaly detectors\n    (AS Hegemony & network delays)",
@@ -5930,6 +6044,7 @@
       "boundElements": [],
       "updated": 1656497782157,
       "link": null,
+      "locked": false,
       "startBinding": {
         "elementId": "SAjgkUo0atVbUiXDXLJNX",
         "gap": 14.702860412985123,
@@ -5978,6 +6093,7 @@
       "boundElements": [],
       "updated": 1656497782157,
       "link": null,
+      "locked": false,
       "startBinding": {
         "elementId": "u10TdDmtnt-c_3ADya7y7",
         "focus": 0.5680053366635602,
@@ -6022,6 +6138,7 @@
       "boundElements": [],
       "updated": 1656497782157,
       "link": null,
+      "locked": false,
       "startBinding": {
         "elementId": "eYgCbJDd17elt3O2FEfoS",
         "gap": 5.599419433019564,
@@ -6070,6 +6187,7 @@
       "boundElements": [],
       "updated": 1656497782157,
       "link": null,
+      "locked": false,
       "startBinding": {
         "elementId": "nUfFmzqSXrHVuzG7gQGa-",
         "gap": 12.22299140932734,
@@ -6118,6 +6236,7 @@
       "boundElements": [],
       "updated": 1656497782157,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -6178,6 +6297,7 @@
       "boundElements": [],
       "updated": 1656497782157,
       "link": "https://github.com/InternetHealthReport/kafka-toolbox/blob/master/atlas/producers/getMsmIds.py",
+      "locked": false,
       "fontSize": 20,
       "fontFamily": 1,
       "text": "RIPE Atlas \nlong-lasting measurement IDs",
@@ -6211,6 +6331,7 @@
       "boundElements": [],
       "updated": 1656497782158,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": {
         "elementId": "KcJex057wBcdh_zVZHYbi",
@@ -6255,6 +6376,7 @@
       "boundElements": [],
       "updated": 1656497782158,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -6320,6 +6442,7 @@
       ],
       "updated": 1656497782158,
       "link": "",
+      "locked": false,
       "fontSize": 20,
       "fontFamily": 1,
       "text": "IPmap",
@@ -6353,6 +6476,7 @@
       "boundElements": [],
       "updated": 1656497782158,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -6393,6 +6517,7 @@
       "boundElements": [],
       "updated": 1656497782158,
       "link": null,
+      "locked": false,
       "fontSize": 19.545454545454568,
       "fontFamily": 1,
       "text": "Analysis modules not working:\n\n\n\n\n ",
@@ -6426,6 +6551,7 @@
       "boundElements": [],
       "updated": 1656497782158,
       "link": "https://github.com/InternetHealthReport/psql-dump",
+      "locked": false,
       "startBinding": null,
       "endBinding": {
         "elementId": "qAC3ZEsM1Jk5LU4MRxgVu",
@@ -6496,7 +6622,8 @@
         }
       ],
       "updated": 1656497782158,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "line",
@@ -6524,6 +6651,7 @@
       "boundElements": [],
       "updated": 1656497782158,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -6565,7 +6693,8 @@
       "strokeSharpness": "sharp",
       "boundElements": [],
       "updated": 1656497782158,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "ellipse",
@@ -6592,7 +6721,8 @@
       "strokeSharpness": "sharp",
       "boundElements": [],
       "updated": 1656497782158,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "ellipse",
@@ -6619,7 +6749,8 @@
       "strokeSharpness": "sharp",
       "boundElements": [],
       "updated": 1656497782159,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "ellipse",
@@ -6646,7 +6777,8 @@
       "strokeSharpness": "sharp",
       "boundElements": [],
       "updated": 1656497782159,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "line",
@@ -6674,6 +6806,7 @@
       "boundElements": [],
       "updated": 1656497782159,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -6796,6 +6929,7 @@
       "boundElements": [],
       "updated": 1656497782159,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -6838,6 +6972,7 @@
       "boundElements": [],
       "updated": 1656497782159,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -6903,7 +7038,8 @@
       "strokeSharpness": "sharp",
       "boundElements": [],
       "updated": 1656497782159,
-      "link": null
+      "link": null,
+      "locked": false
     },
     {
       "type": "line",
@@ -6931,6 +7067,7 @@
       "boundElements": [],
       "updated": 1656497782159,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -6991,6 +7128,7 @@
       "boundElements": [],
       "updated": 1656497782159,
       "link": "https://github.com/InternetHealthReport/ihr-archive-website",
+      "locked": false,
       "fontSize": 20,
       "fontFamily": 1,
       "text": "IHR-archive",
@@ -7024,6 +7162,7 @@
       "boundElements": [],
       "updated": 1656497782159,
       "link": "https://github.com/InternetHealthReport/psql-dump",
+      "locked": false,
       "fontSize": 20,
       "fontFamily": 1,
       "text": "daily dumps",
@@ -7057,6 +7196,7 @@
       "boundElements": [],
       "updated": 1656497782159,
       "link": null,
+      "locked": false,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -7122,6 +7262,7 @@
       ],
       "updated": 1656497782159,
       "link": null,
+      "locked": false,
       "fontSize": 28,
       "fontFamily": 1,
       "text": "Maxmind",
@@ -7155,6 +7296,7 @@
       "boundElements": [],
       "updated": 1656497782160,
       "link": null,
+      "locked": false,
       "startBinding": {
         "elementId": "sjhjkyEXBbZdmm8fbUioy",
         "focus": -1.17020084767262,
@@ -7176,37 +7318,38 @@
       ]
     },
     {
-      "id": "dQrlMP4taqx0RtAMdTDrV",
       "type": "text",
-      "x": 1501.9694067564878,
-      "y": 310.2569646293467,
-      "width": 143,
-      "height": 25,
-      "angle": 0,
-      "strokeColor": "#000000",
-      "backgroundColor": "transparent",
+      "version": 33,
+      "versionNonce": 2108081061,
+      "isDeleted": false,
+      "id": "dQrlMP4taqx0RtAMdTDrV",
       "fillStyle": "hachure",
       "strokeWidth": 1,
       "strokeStyle": "solid",
       "roughness": 1,
       "opacity": 100,
+      "angle": 0,
+      "x": 1501.9694067564878,
+      "y": 310.2569646293467,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 143,
+      "height": 25,
+      "seed": 651794184,
       "groupIds": [],
       "strokeSharpness": "sharp",
-      "seed": 651794184,
-      "version": 27,
-      "versionNonce": 584309368,
-      "isDeleted": false,
-      "boundElements": null,
-      "updated": 1656497844889,
+      "boundElements": [],
+      "updated": 1657264375369,
       "link": null,
-      "text": "(2022-06-24)",
+      "locked": false,
       "fontSize": 20,
       "fontFamily": 1,
+      "text": "(2022-07-08)",
+      "baseline": 18,
       "textAlign": "left",
       "verticalAlign": "top",
-      "baseline": 18,
       "containerId": null,
-      "originalText": "(2022-06-24)"
+      "originalText": "(2022-07-08)"
     }
   ],
   "appState": {
